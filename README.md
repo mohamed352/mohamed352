@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed352" alt="mohamed352" /></a> </p>
 
-- 🔭 I’m currently working on [Moffed](https://inway-4539f.web.app/)
+<!--- 🔭 I’m currently working on [Moffed](https://inway-4539f.web.app/)-->
 
 - 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **mohamedmostafa5830@gmail.com**
 
-- 📄 Know about my experiences [Resum](https://drive.google.com/file/d/1lys4FpljeSou3Sn6sCWFXINbyX7reBmC/view?usp=sharing)
+<!--- 📄 Know about my experiences [Resum](https://drive.google.com/file/d/1lys4FpljeSou3Sn6sCWFXINbyX7reBmC/view?usp=sharing)-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
