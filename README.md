@@ -114,11 +114,15 @@ Currently working at Baseet creating high quality experiences and happy to conne
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=mohamed352&show_icons=true&theme=gotham)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed352&layout=compact&theme=gotham)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed352&show_icons=true&locale=en&theme=tokyonight" alt="Stats" /></p>
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamed352&theme=gotham)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed352&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Langs" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed352&theme=tokyonight" alt="Streak" /></p>
+
+</div>
 
 </div>
 
