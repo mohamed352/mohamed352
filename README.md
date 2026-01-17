@@ -5,23 +5,17 @@
   <img src="https://komarev.com/ghpvc/?username=mohamed352&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed352" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mohamed352" alt="mohamed352" />
-  </a>
-</p>
-
 ---
 
 ### 🚀 About Me
 
-I am a **Software Engineer** specializing in designing and developing integrated technical solutions. I focus on building robust, scalable systems—spanning **Mobile, Web, and SaaS**—that effectively serve business objectives.
+I am a Software Engineer specializing in designing integrated technical solutions and building robust scalable systems across Mobile Web and SaaS
 
-With extensive experience in executing complex projects such as custom dashboards, multi-user systems, and API integrations, I prioritize **code quality, performance, and long-term maintainability**. I believe in choosing the right technical architecture for each unique challenge rather than applying one-size-fits-all solutions.
+I have experience executing complex projects like custom dashboards and multi user systems with a focus on code quality performance and maintainability
 
-I manage the development lifecycle from **concept to launch**, ensuring clear, continuous communication so that every step moves in the right direction. My goal is to deliver real value that drives project success and growth.
+I manage the development from concept to launch with clear communication to deliver real value and drive success
 
-I am currently working at **Baseet**, applying these principles to create high-quality cross-platform experiences. If you're looking for a partner to turn your requirements into a stable, practical product, let's build something amazing together.
+Currently working at Baseet creating high quality experiences and happy to connect for building something amazing together
 
 ---
 
@@ -61,17 +55,28 @@ I am currently working at **Baseet**, applying these principles to create high-q
   <!-- Mobile & Core -->
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   
   <br />
 
-  <!-- Backend & DB -->
+  <!-- Backend & Cloud -->
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+
+  <br />
+  
+  <!-- AI & Modern Tools (Requested) -->
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Antigravity-FF0080?style=for-the-badge" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/Lovable-FF5722?style=for-the-badge" alt="Lovable" />
+  <img src="https://img.shields.io/badge/Bolt-FFC107?style=for-the-badge&logo=lightning&logoColor=black" alt="Bolt" />
+  <img src="https://img.shields.io/badge/Stitch-000000?style=for-the-badge" alt="Stitch" />
 
   <br />
 
@@ -80,6 +85,8 @@ I am currently working at **Baseet**, applying these principles to create high-q
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode" />
 </p>
 
 ---
@@ -88,15 +95,11 @@ I am currently working at **Baseet**, applying these principles to create high-q
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohamed352&show_icons=true&locale=en&theme=tokyonight" alt="Stats" />
+![Stats](https://github-readme-stats.vercel.app/api?username=mohamed352&show_icons=true&theme=tokyonight)
 
-<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed352&layout=compact&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed352&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Langs" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed352&theme=tokyonight" alt="Streak" />
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamed352&theme=tokyonight)
 
 </div>
 
